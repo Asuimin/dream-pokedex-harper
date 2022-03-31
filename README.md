@@ -1,4 +1,4 @@
-# Dream Pokedex
+# Dream Pokédex
 Record the Pokémon that appeared in my dream.
 
 # 夢ポケモン図鑑
